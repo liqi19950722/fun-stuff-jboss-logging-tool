@@ -6,7 +6,7 @@
 参考文档：
 
 - [jboss-logging-tool](https://jboss-logging.github.io/jboss-logging-tools/)
-- [jboss-logging]https://github.com/jboss-logging
+- [jboss-logging](https://github.com/jboss-logging)
 
 ## jboss-logging bridge to slf4j
 
